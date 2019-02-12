@@ -4,8 +4,8 @@
 
 ESP8266WebServer server(8081);
 
-const char* ssid = "Martin Router King";
-const char* pass = "a97L61J90r63_55";
+const char* ssid = "*****";
+const char* pass = "*****";
 
 void setup() {
   Serial.begin(115200);
